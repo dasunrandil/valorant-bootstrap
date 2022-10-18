@@ -10,9 +10,16 @@ This is a concept design for the officical site of Valorant. Project is develope
 <img src = "screenshots/img6.png" height= "250px">
 <img src = "screenshots/img7.png" height= "250px">
 
+### <b>Check responsiveness of the website by:</b>
+
+1.   Open the cloned website.
+2.   Inspect or open developer tools.   
+3.   Use: Responsive Design Mode.   
+
+
 ## <b>Built Using</b>
 
-* HTML 5
+* HTML 5 
 * Bootstrap Framework
 
 ## <b>Contact</b>
